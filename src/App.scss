@@ -1,0 +1,90 @@
+@media (max-width: 600px) {
+  .facet_sidebar {
+    display: none;
+  }
+}
+
+body {
+    font-family: var(--font-roboto);
+    background-color: #DEDA96;
+  }
+
+// Home.tsx
+img{
+    height: 300px;
+    width: 380px;
+    padding-right: 3px ;
+    display: flex;
+    align-items: center;
+    
+}
+.orderbtndiv{
+    // margin-top: 200px;
+    // margin-bottom: 200px;
+    // margin-left: 400px;
+    // margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .about{
+    margin-left: 10px;
+  }
+
+.orderbtn{
+    background-color: #FFD230;
+    color: #000000;
+    width: 500px;
+    height: 500px;
+    margin-top: 200px;
+}
+
+//Payment.tsx
+.solanapaydiv{
+  // padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.cashpaydiv{
+  padding-top: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.backtoStorediv{
+  padding-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.solanabtn{
+
+  height: 50px;
+  width: 200px;
+
+}
+.cashbtn{
+
+  height: 50px;
+  width: 200px;
+
+} 
+.storebtn{
+  height: 50px;
+  width: 200px;
+}
+
+#ConnectPhantom{
+  height: 50px;
+  width: 200px;
+}
+
+#DisablePhantom{
+  height: 50px;
+  width: 200px;
+}

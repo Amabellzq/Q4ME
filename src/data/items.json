@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Rice",
+    "price": 3.50,
+    "imgUrl": "/imgs/chickenrice.jpg"
+  },
+  {
+    "id": 2,
+    "name": "BeanSprout",
+    "price": 2.00,
+    "imgUrl": "/imgs/beansprout.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rice",
+    "price": 0.80,
+    "imgUrl": "/imgs/rice.jpg"
+  }
+]
