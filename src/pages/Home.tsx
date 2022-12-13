@@ -4,7 +4,7 @@ export function Home() {
   return (
     <>
       <h1>Home</h1>
-      <img src="public/imgs/homepage.jpg" alt=""/>
+      <img src="/imgs/homepage.jpg" alt=""/>
       <div className="orderbtndiv">
         <Link to="/store" className="btn btn-primary">Click to Order</Link>
         
